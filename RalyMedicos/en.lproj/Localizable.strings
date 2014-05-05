@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  RalyMedicos
+
+  Created by Christoval  Barba on 03/24/14.
+  Copyright (c) 2014 Eem Systems. All rights reserved.
+*/
+
+/*menu*/
+"MIS_RESULTADOS"="Results";
+"SALIR"="Exit";
+"INFO_GRAL" = "Info General";
+"CERRAR_SESION"="Log Out";
+
+"ERROR_LOADING_RESULTS"="Error loading results";
+"LOGIN_ERROR"="LogIn error";
+"USER_PASS" = "enter your information to log in";
+"LOGIN_ERROR_USER_PASS" = "username or password incorrect";
+
+"ERROR_LOADING_PROMOTIONS" = "error loading Promotions";
+
+"BTN_OK" = "Ok";
+"BTN_CANCEL" = "Cancel";
+
+"ERROR_LOADING_PATIENTS" = "error loading Patients";
+"SEARCH_PATIENTS" = "search patient";
+"LOCAL_SRT" = "Local";
+"BUSCAR_STR" = "Search";
+
+"CALL" = "Call";
+"EMAIL" = "Mail";
+"CLOSE" ="Close";
+"LOADING" = "Loading ...";
+
+"CONNECTION_ERROR" = "Connection Error";
+"CONNECTION_ERROR_MSG" = "no Internet Connection";
+
+"DELETE_FILE_MSG" = "Want to delete the result %@ of %@";
+
+"ACTION_DOWNLOAD" = "View Result";
+"ACTION_ANTECEDENTES" = "View History";
+"ACTION_SAVE" ="Save Result";
+
+"RESULTADO_ESTADO" = "this result isn\'t ready.";

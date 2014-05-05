@@ -1,0 +1,81 @@
+
+/* Class = "IBUILabel"; text = "Precio"; ObjectID = "04P-YQ-PjT"; */
+"04P-YQ-PjT.text" = "Precio";
+
+/* Class = "IBUILabel"; text = "Titulo"; ObjectID = "1Ob-St-816"; */
+"1Ob-St-816.text" = "Titulo";
+
+/* Class = "IBUIButton"; normalTitle = "@Ralylab"; ObjectID = "4TL-Dc-aXf"; */
+"4TL-Dc-aXf.normalTitle" = "@Ralylab";
+
+/* Class = "IBUILabel"; text = "Info General"; ObjectID = "8YJ-gR-sGv"; */
+"8YJ-gR-sGv.text" = "Info General";
+
+/* Class = "IBUIButton"; normalTitle = "Salir"; ObjectID = "9pd-BD-hH0"; */
+"9pd-BD-hH0.normalTitle" = "Exit";
+
+/* Class = "IBUITabBarItem"; title = "Promociones"; ObjectID = "EIQ-Hk-tck"; */
+"EIQ-Hk-tck.title" = "Promotions";
+
+/* Class = "IBUILabel"; text = "Cedula"; ObjectID = "H6d-vH-M3s"; */
+"H6d-vH-M3s.text" = "Id";
+
+/* Class = "IBUILabel"; text = "nombre"; ObjectID = "KIm-ES-iZm"; */
+"KIm-ES-iZm.text" = "name";
+
+/* Class = "IBUILabel"; text = "Nombre"; ObjectID = "NfV-FV-Zek"; */
+"NfV-FV-Zek.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Mis Resultados"; ObjectID = "SFY-oK-TaA"; */
+"SFY-oK-TaA.text" = "My Results";
+
+/* Class = "IBUITextField"; placeholder = "Clave"; ObjectID = "Vjy-ft-aau"; */
+"Vjy-ft-aau.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "titulo"; ObjectID = "WA6-0G-YYk"; */
+"WA6-0G-YYk.text" = "title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Zkl-fp-64N"; */
+"Zkl-fp-64N.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Titulo"; ObjectID = "bEp-El-kU1"; */
+"bEp-El-kU1.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "Cerrar"; ObjectID = "bfn-3e-8eT"; */
+"bfn-3e-8eT.normalTitle" = "Close";
+
+/* Class = "IBUIViewController"; title = "Paciente Contacto"; ObjectID = "c9g-rF-s0K"; */
+"c9g-rF-s0K.title" = "Patient Contact";
+
+/* Class = "IBUILabel"; text = "codigo"; ObjectID = "eUT-zR-Rcb"; */
+"eUT-zR-Rcb.text" = "code";
+
+/* Class = "IBUITextField"; placeholder = "Usuario"; ObjectID = "gDf-SK-Nsb"; */
+"gDf-SK-Nsb.placeholder" = "UserName";
+
+/* Class = "IBUILabel"; text = "by: christhoval06"; ObjectID = "h2A-Oa-fju"; */
+"h2A-Oa-fju.text" = "by: christhoval06";
+
+/* Class = "IBUILabel"; text = "resultado"; ObjectID = "kJJ-Hf-fWW"; */
+"kJJ-Hf-fWW.text" = "result";
+
+/* Class = "IBUIButton"; normalTitle = "Ralylab"; ObjectID = "lvM-fx-Ago"; */
+"lvM-fx-Ago.normalTitle" = "Ralylab";
+
+/* Class = "IBUIButton"; normalTitle = "Entrar"; ObjectID = "mak-hl-19l"; */
+"mak-hl-19l.normalTitle" = "Enter";
+
+/* Class = "IBUISearchBar"; placeholder = "filtrar mis pacientes"; ObjectID = "mqR-T0-fZE"; */
+"mqR-T0-fZE.placeholder" = "filter my patients";
+
+/* Class = "IBUISearchBar"; mqR-T0-fZE.scopeButtonTitles[0] = "Local"; ObjectID = "mqR-T0-fZE"; */
+"mqR-T0-fZE.scopeButtonTitles[0]" = "Local";
+
+/* Class = "IBUISearchBar"; mqR-T0-fZE.scopeButtonTitles[1] = "Buscar"; ObjectID = "mqR-T0-fZE"; */
+"mqR-T0-fZE.scopeButtonTitles[1]" = "Search";
+
+/* Class = "IBUILabel"; text = "Titulo"; ObjectID = "pwn-Fs-3sJ"; */
+"pwn-Fs-3sJ.text" = "Title";
+
+/* Class = "IBUILabel"; text = "fecha"; ObjectID = "sts-s0-SOo"; */
+"sts-s0-SOo.text" = "date";

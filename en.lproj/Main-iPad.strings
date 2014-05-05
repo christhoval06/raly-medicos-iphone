@@ -1,0 +1,12 @@
+
+/* Class = "IBUIButton"; normalTitle = "Salir"; ObjectID = "7O6-PL-CXT"; */
+"7O6-PL-CXT.normalTitle" = "Salir";
+
+/* Class = "IBUIButton"; normalTitle = "Entrar"; ObjectID = "Pud-xz-qci"; */
+"Pud-xz-qci.normalTitle" = "Entrar";
+
+/* Class = "IBUITextField"; placeholder = "Usuario"; ObjectID = "R4O-hn-g2r"; */
+"R4O-hn-g2r.placeholder" = "Usuario";
+
+/* Class = "IBUITextField"; placeholder = "Clave"; ObjectID = "bGf-vz-69I"; */
+"bGf-vz-69I.placeholder" = "Clave";

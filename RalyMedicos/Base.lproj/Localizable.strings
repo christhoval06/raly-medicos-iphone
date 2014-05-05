@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  RalyMedicos
+
+  Created by Christoval  Barba on 03/24/14.
+  Copyright (c) 2014 Eem Systems. All rights reserved.
+*/
+
+/*menu*/
+"MIS_RESULTADOS" = "Mis Resultados";
+"SALIR" = "Salir";
+"INFO_GRAL" = "Info General";
+"CERRAR_SESION" = "Cerrar sesión";
+
+"ERROR_LOADING_RESULTS" = "Error Cragando Resultados";
+"LOGIN_ERROR" = "Error de Acceso";
+"USER_PASS" = "Debe introducir su Usuario y Clave";
+"LOGIN_ERROR_USER_PASS" = "Usuario o clave no válidas";
+
+"ERROR_LOADING_PROMOTIONS" = "Error Cargando Promociones";
+
+"BTN_OK" = "Aceptar";
+"BTN_CANCEL" = "Cancelar";
+
+"ERROR_LOADING_PATIENTS" = "error cargando pacientes";
+"SEARCH_PATIENTS" = "buscar paciente";
+"LOCAL_SRT" = "Local";
+"BUSCAR_STR" = "Buscar";
+
+"CALL" = "Llamar";
+"EMAIL" = "Correo";
+"CLOSE" ="Cerrar";
+"LOADING" = "Cargando ...";
+
+"CONNECTION_ERROR" = "Error de Conexión";
+"CONNECTION_ERROR_MSG" = "no hay acceso a internet";
+
+"DELETE_FILE_MSG" = "Desea borrar el resultado %@ de %@";
+
+"ACTION_DOWNLOAD" = "Ver Resultado";
+"ACTION_ANTECEDENTES" = "Ver Antecedentes";
+"ACTION_SAVE" ="Guardar Resultado";
+
+"RESULTADO_ESTADO" = "Este resultado no esta listo.";

@@ -1,0 +1,27 @@
+
+/* Class = "IBUITabBarItem"; title = "Results"; ObjectID = "3ti-Pn-QLP"; */
+"3ti-Pn-QLP.title" = "Resultados";
+
+/* Class = "IBUILabel"; text = "Promotions"; ObjectID = "6Zz-Ha-eeK"; */
+"6Zz-Ha-eeK.text" = "c";
+
+/* Class = "IBUITabBarItem"; title = "My Patients"; ObjectID = "9EN-dl-ZCx"; */
+"9EN-dl-ZCx.title" = "Mis Pacientes";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "9pd-BD-hH0"; */
+"9pd-BD-hH0.normalTitle" = "Cancelar";
+
+/* Class = "IBUITabBarItem"; title = "Promotions"; ObjectID = "EIQ-Hk-tck"; */
+"EIQ-Hk-tck.title" = "Promociones";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "Vjy-ft-aau"; */
+"Vjy-ft-aau.placeholder" = "Clave";
+
+/* Class = "IBUITextField"; placeholder = "User Name"; ObjectID = "gDf-SK-Nsb"; */
+"gDf-SK-Nsb.placeholder" = "Usuario";
+
+/* Class = "IBUINavigationItem"; title = "Raly Medicos"; ObjectID = "lrL-ty-2zc"; */
+"lrL-ty-2zc.title" = "Raly Medicos";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "mak-hl-19l"; */
+"mak-hl-19l.normalTitle" = "Entar";
